@@ -1,0 +1,9 @@
+# исходные данные и всё посчитанное
+data
+artifacts/
+
+# окружение
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

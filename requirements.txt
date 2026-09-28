@@ -1,0 +1,9 @@
+# Локальная часть. Ноутбуки в Colab ставят свои версии в первой ячейке.
+pandas==2.3.0
+pyarrow==25.0.1
+numpy==2.2.6
+scipy==1.16.3
+scikit-learn==1.8.0
+pymorphy3==2.0.6
+pymorphy3-dicts-ru==2.4.417150.4580142
+lightgbm==4.7.0
